@@ -77,8 +77,8 @@ The control application was developed using **MIT App Inventor** and connects vi
 ![Final Machine](mobile-app.jpg)
 
 ---
-Project Teammates
-E Sujaya
-Abhay Nayak
-Diksha Shetty
-Pooja Morab
+## Project Teammates
+- E Sujaya
+- Abhay Nayak
+- Diksha Shetty
+- Pooja Morab

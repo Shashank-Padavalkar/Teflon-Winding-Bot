@@ -50,6 +50,11 @@ The machine is **controlled wirelessly** through a **custom mobile app built usi
 ### Prototype Design
 ![Prototype Design](prototype.png)
 
+### 3D Model of the Bot
+![Prototype Design](3d-model.PNG)
+
+
+
 ### Circuit Diagram
 ![Circuit Diagram](images/circuit.jpg)
 

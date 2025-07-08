@@ -48,7 +48,7 @@ The machine is **controlled wirelessly** through a **custom mobile app built usi
 ## Images
 
 ### Prototype Design
-![Prototype Design](images/prototype.jpg)
+![Prototype Design](images/prototype.png)
 
 ### Circuit Diagram
 ![Circuit Diagram](images/circuit.jpg)

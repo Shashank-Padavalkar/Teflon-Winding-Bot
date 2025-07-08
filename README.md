@@ -73,4 +73,12 @@ The control application was developed using **MIT App Inventor** and connects vi
 - Connection status indicator  
 - Simple interface for ease of use
 
-You can include the `.aia` file and screenshots in a `mobile_app/` directory if needed.
+  ### Final Machine Overview
+![Final Machine](mobile-app.jpg)
+
+---
+Project Teammates
+E Sujaya
+Abhay Nayak
+Diksha Shetty
+Pooja Morab

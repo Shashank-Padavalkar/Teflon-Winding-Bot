@@ -56,10 +56,10 @@ The machine is **controlled wirelessly** through a **custom mobile app built usi
 
 
 ### Circuit Diagram
-![Circuit Diagram](images/circuit.jpg)
+![Circuit Diagram](images/circuit-diagram.jpg)
 
 ### Final Machine Overview
-![Final Machine](images/final_machine.jpg)
+![Final Machine](images/final-machine.jpg)
 
 
 
